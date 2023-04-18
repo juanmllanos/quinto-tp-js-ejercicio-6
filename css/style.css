@@ -1,0 +1,16 @@
+button {
+	border-radius: 50%;
+	width: 40px;
+}
+
+#iniciar,
+#pausar,
+#reiniciar {
+	width: 100px;
+	border-radius: 0%;
+}
+
+body {
+	background-color: cornsilk;
+	font-weight: bolder;
+}
